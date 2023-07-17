@@ -1,0 +1,26 @@
+{
+  "name": "AURORA",
+  "version": "1.0.0",
+  "description": "Project Aurora is an AI-powered assistant designed to enhance your Google Meet experience. It joins your meetings, assists with meeting management tasks, and provides real-time assistance to streamline collaboration. Say goodbye to mundane meeting logistics and let Aurora take care of it for you!",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aman440/AURORA.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aman440/AURORA/issues"
+  },
+  "homepage": "https://github.com/aman440/AURORA#readme",
+  "dependencies": {
+    "puppeteer": "^20.2.1",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  }
+}
